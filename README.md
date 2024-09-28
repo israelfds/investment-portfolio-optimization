@@ -1,5 +1,12 @@
 # Investment Portfolio Optimization
 
+## Curso
+Otimização de Sistemas 
+## Turma
+962-94349
+## Israel Feitosa da Silva - 2010200454
+
+
 ## Objetivo
 
 Este projeto implementa um algoritmo de otimização baseado no problema da mochila para construir uma carteira de investimentos. O objetivo é maximizar o retorno esperado de uma carteira de ativos financeiros, respeitando um limite de risco máximo tolerado (capacidade da mochila).
