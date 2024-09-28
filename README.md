@@ -21,6 +21,20 @@ A otimização foi realizada com base no problema da mochila, onde:
 3. **Implementação:** O algoritmo de otimização foi implementado utilizando as bibliotecas `numpy` e `scipy.optimize`, permitindo a busca pela melhor combinação de ativos.
 4. **Visualização dos resultados:** Os resultados foram visualizados usando `matplotlib` e `seaborn`, proporcionando uma compreensão clara da eficiência da carteira otimizada.
 
+## Resultados
+
+### Fronteira Eficiente
+![Fronteira Eficiente](fronteira_eficiente.png)
+
+### Distribuição de Ativos na Carteira
+![Distribuição de Ativos](distribuicao_ativos.png)
+
+### Evolução do Retorno Cumulativo
+![Evolução do Retorno Cumulativo](evolucao_retorno.png)
+
+### Evolução da Volatilidade
+![Evolução da Volatilidade](evolucao_risco.png)
+
 
 ## Instruções de Instalação e Execução
 
