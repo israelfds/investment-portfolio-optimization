@@ -6,10 +6,11 @@ from optimization import optimize_portfolio
 
 def main():
     # Defina os parâmetros
-    tickers = ['TSLA', 'BTC-USD', 'NVDA', 'PBR', 'BBAS3.SA']
-    start_date = '2023-09-27'
-    end_date = '2024-09-27'
-    risk_free_rate = 0.05  # Taxa livre de risco
+    tickers = ['TSLA', 'BTC-USD', 'NVDA', 'PBR', 'BBAS3.SA', 'MSFT',
+               'META', 'SMCI', 'ROKU', 'SBUX', 'DELL', 'RIOT', 'EBAY']
+    start_date = '2019-10-29'
+    end_date = '2024-10-29'
+    risk_free_rate = 0.001  # Taxa livre de risco
 
     # Baixar os dados
     data = download_data(tickers, start=start_date, end=end_date)
