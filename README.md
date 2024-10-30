@@ -31,16 +31,16 @@ A otimização foi realizada com base no problema da mochila, onde:
 ## Resultados
 
 ### Fronteira Eficiente
-![Fronteira Eficiente](fronteira_eficiente.png)
+![Fronteira Eficiente](src/fronteira_eficiente.png)
 
 ### Distribuição de Ativos na Carteira
-![Distribuição de Ativos](distribuicao_ativos.png)
+![Distribuição de Ativos](src/distribuicao_ativos.png)
 
 ### Evolução do Retorno Cumulativo
-![Evolução do Retorno Cumulativo](evolucao_retorno.png)
+![Evolução do Retorno Cumulativo](src/evolucao_retorno.png)
 
 ### Evolução da Volatilidade
-![Evolução da Volatilidade](evolucao_risco.png)
+![Evolução da Volatilidade](src/evolucao_risco.png)
 
 
 ## Instruções de Instalação e Execução
